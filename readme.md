@@ -26,3 +26,14 @@
         - Compatibility with tf 2.00alpha
         - Additional Content Layers added in to make the content more prominent
         - Minor changes to helper functions
+
+# **Outputs:**
+
+## <u>Content Image</u>
+> ![](japanese_garden.jpg)
+
+## <u>Style Image</u>
+> ![](picasso_selfportrait.jpg)
+
+## <u>Output Image</u>
+> ![](out.jpeg)
